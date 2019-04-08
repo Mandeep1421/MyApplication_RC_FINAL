@@ -1,0 +1,25 @@
+[
+
+{
+	"sid": 1,
+    "sname": "Leanne Graham",
+    "gender": "male"
+},
+
+{
+	"sid": 2,
+    "sname": "Gurminder Kaur",
+    "gender": "Female"
+},
+{
+	"sid": 3,
+    "sname": "Jagmeet kaur",
+    "gender": "Female"
+},
+{
+	"sid": 4,
+    "sname": "Samir Thaker",
+    "gender": "male"
+}
+
+]
